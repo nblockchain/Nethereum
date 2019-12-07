@@ -24,10 +24,10 @@
         <dependencies>
             <group targetFramework="net4.6">
                 <dependency id="BouncyCastle" version="1.8.2" exclude="Build,Analyzers" />
-                <dependency id="JsonRpcSharp" version="0.10.0-date20191207-0557.git-3383656" exclude="Build,Analyzers" />
+                <dependency id="JsonRpcSharp" version="0.10.0-date20191207-1103.git-7d79f5e" exclude="Build,Analyzers" />
             </group>
             <group targetFramework="netstandard2.0">
-                <dependency id="JsonRpcSharp" version="0.10.0-date20191207-0557.git-3383656" exclude="Build,Analyzers" />
+                <dependency id="JsonRpcSharp" version="0.10.0-date20191207-1103.git-7d79f5e" exclude="Build,Analyzers" />
             </group>
         </dependencies>
     </metadata>

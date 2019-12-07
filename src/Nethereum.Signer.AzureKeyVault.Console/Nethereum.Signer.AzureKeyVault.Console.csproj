@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="[10.0.3,12)" />
-    <PackageReference Include="JsonRpcSharp" Version="0.10.0-date20191207-0557.git-3383656" />
+    <PackageReference Include="JsonRpcSharp" Version="0.10.0-date20191207-1103.git-7d79f5e" />
     <PackageReference Include="Microsoft.Azure.KeyVault" Version="3.0.0" />
     <PackageReference Include="Microsoft.IdentityModel.Clients.ActiveDirectory" Version="3.19.8" />
   </ItemGroup>

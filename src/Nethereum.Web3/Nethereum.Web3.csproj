@@ -45,7 +45,7 @@
     <None Include="..\..\NethereumKey.snk" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="JsonRpcSharp" Version="0.10.0-date20191207-0557.git-3383656">
+    <PackageReference Include="JsonRpcSharp" Version="0.10.0-date20191207-1103.git-7d79f5e">
     </PackageReference>
   </ItemGroup>
 
